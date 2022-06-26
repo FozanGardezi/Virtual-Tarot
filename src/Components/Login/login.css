@@ -1,0 +1,24 @@
+.orange{
+    width:50%;
+    backgroundColor:#FFB349;
+}
+.orange .cardImage{
+    width:"580px";
+    height:"388px";
+}
+input {
+    border: 0;
+    outline: 0;
+    padding:15px;
+    background: transparent;
+    color:#ffffff;
+    border-bottom: 1px solid white;
+    size:"50"
+  }
+.black{
+    width:50%;
+    backgroundColor:#000000;
+}
+.form-background{
+    
+}
